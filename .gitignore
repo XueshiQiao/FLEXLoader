@@ -1,0 +1,9 @@
+obj
+.theos
+_
+Build
+releases
+
+*.xcuserstate
+xcuserdata
+*.xccheckout

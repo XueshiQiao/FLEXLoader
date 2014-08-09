@@ -1,0 +1,15 @@
+Package: com.joeyio.flexloader
+Conflicts: com.joeyio.flexloader
+Replaces: com.joeyio.flexloader
+Name: FLEX Loader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist
+Maintainer: Xueshi Qiao <qiaoxueshi@gmail.com>
+Author: Xueshi Qiao <qiaoxueshi@gmail.com>
+Section: Tweaks
+Description: dynamically loads FLEX(Flipboard Explorer) into applications
+ FLEXLoader dynamically loads FLEXDylib.dylib into iOS apps
+ on jailbroken devices. Configuration is via the FlexLoader menu in Settings.app
+ For more info, see http://github.com/heardrwt/RevealLoader and http://revealapp.com
+Tag: role::developer, purpose::extension
