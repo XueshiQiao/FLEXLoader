@@ -1,5 +1,5 @@
 ## FLEX loader Tweak
-FLEX loader can dynamiclly load FLEX dynamic libarary (`FLEXDylib.dylib`) which was made from [FLEX](https://github.com/Flipboard/FLEX) by me, of course you can make yourself and replace it with yours.  Configuration is via the FLEXLoader menu in Settings.app.
+FLEX loader can dynamiclly load FLEX dynamic libarary (`FLEXDylib.dylib`) which was made from [FLEX](https://github.com/Flipboard/FLEX) by me, of course you can make yourself and replace it with yours(ref:[FLEXDynamicLibProject](https://github.com/qiaoxueshi/FLEXDynamicLibProject)).  Configuration is via the FLEXLoader menu in Settings.app.
 
 This tweak is inspired by [RevealLoader](https://github.com/heardrwt/RevealLoader) and modified from RevealLoader. Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices. 
 
@@ -18,5 +18,6 @@ Open 'Settings > Reveal > Enabled Applications' and toggle the application or ap
 ##REF
 * [FLEX](https://github.com/Flipboard/FLEX)
 * [RevealLoader](https://github.com/heardrwt/RevealLoader)
+* [FLEXDynamicLibProject](https://github.com/qiaoxueshi/FLEXDynamicLibProject)
 * [Xcode4.6创建和使用iOS的dylib动态库](http://blog.csdn.net/hursing/article/details/8951958)
 * [iOS 使用 Flipboard/FLEX 分析第三方 App](http://itony.me/774.html)
