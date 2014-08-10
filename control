@@ -1,7 +1,7 @@
 Package: com.joeyio.flexloader
 Conflicts: com.joeyio.flexloader
 Replaces: com.joeyio.flexloader
-Name: FLEX Loader
+Name: Flipboard FLEX Loader
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist
