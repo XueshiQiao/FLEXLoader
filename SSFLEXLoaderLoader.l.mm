@@ -10,7 +10,7 @@
 %ctor {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
     NSDictionary *prefs = [[NSDictionary dictionaryWithContentsOfFile:@"/var/mobile/Library/Preferences/com.joeyio.FLEXLoader.plist"] retain];
-    NSString *libraryPath = @"/Library/PreferenceLoader/Preferences/FLEXDylib.dylib";
+    NSString *libraryPath = @"/Library/Application Support/FLEXLoader/FLEXDylib.dylib";
     
     NSLog(@"SSFLEXLoader before loaded %@", libraryPath);
     

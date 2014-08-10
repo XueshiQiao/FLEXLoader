@@ -29,7 +29,6 @@
 		13FC3DF818DC2E6400BA7BD5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		13FC3E1318DC318E00BA7BD5 /* libcurl.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcurl.dylib; path = usr/lib/libcurl.dylib; sourceTree = SDKROOT; };
 		13FC3E1518DC31A400BA7BD5 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
-		D8312D751996615E005924D2 /* FLEXDylib.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = FLEXDylib.dylib; path = layout/Library/PreferenceLoader/Preferences/FLEXDylib.dylib; sourceTree = "<group>"; };
 		D8B2CC581996671700C48380 /* SSFLEXLoader.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = SSFLEXLoader.plist; path = layout/Library/PreferenceLoader/Preferences/SSFLEXLoader.plist; sourceTree = "<group>"; };
 		D8EFECD01995E05500E26783 /* SSFLEXLoaderMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFLEXLoaderMain.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,7 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				D8B2CC581996671700C48380 /* SSFLEXLoader.plist */,
-				D8312D751996615E005924D2 /* FLEXDylib.dylib */,
 			);
 			name = Preferences;
 			sourceTree = "<group>";

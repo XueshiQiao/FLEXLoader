@@ -19,7 +19,7 @@ char endianness = IS_LITTLE_ENDIAN;
 
 //download libReveal using partialzip
 
-NSString *libraryPath = @"/Library/PreferenceLoader/Preferences/FLEXDylib.dylib";
+NSString *libraryPath = @"/Library/Application Support/FLEXLoader/FLEXDylib.dylib";
 
 int main(int argc, const char *argv[], const char *envp[]){
     
