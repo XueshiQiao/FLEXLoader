@@ -143,7 +143,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = RH;
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Richard Heard";
 			};
 			buildConfigurationList = 13E4B23E18DC1F3D00543170 /* Build configuration list for PBXProject "SSFLEXLoader" */;
@@ -192,6 +192,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;

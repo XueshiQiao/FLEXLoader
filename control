@@ -2,7 +2,7 @@ Package: com.joeyio.flexloader
 Conflicts: com.joeyio.flexloader
 Replaces: com.joeyio.flexloader
 Name: Flipboard FLEX Loader
-Version: 1.1.0
+Version: 1.3.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist
 Maintainer: Xueshi Qiao <qiaoxueshi@gmail.com>
@@ -11,4 +11,6 @@ Section: Tweaks
 Description: dynamically loads FLEX(Flipboard Explorer) into applications
  FLEXLoader dynamically loads FLEXDylib.dylib into iOS apps
  on jailbroken devices. Configuration is via the FlexLoader menu in Settings.app
+
+ FELX is updated to 2.3.0 version
 Tag: role::developer, purpose::extension
