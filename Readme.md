@@ -1,9 +1,11 @@
 ![](https://raw.githubusercontent.com/qiaoxueshi/FLEXLoader/master/layout/Library/PreferenceLoader/Preferences/SSFLEXLoader@2x.png)
 
 ## FLEX loader Tweak
-FLEX loader can dynamiclly load FLEX dynamic libarary (`FLEXDylib.dylib`) which was made from [FLEX](https://github.com/Flipboard/FLEX) by me, of course you can make yourself and replace it with yours(ref:[FLEXDynamicLibProject](https://github.com/qiaoxueshi/FLEXDynamicLibProject)).  Configuration is via the FLEXLoader menu in Settings.app.
+FLEX loader dynamiclly loads FLEX dynamic libarary (`FLEXDylib.dylib`) which was build from [FLEX](https://github.com/Flipboard/FLEX) by me, of course you may replace it with yours(ref:[FLEXDynamicLibProject](https://github.com/qiaoxueshi/FLEXDynamicLibProject)).  Configuration is via the FLEXLoader menu in Settings.app.
 
 This tweak is inspired by [RevealLoader](https://github.com/heardrwt/RevealLoader) and modified from RevealLoader. Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices. 
+
+[中文说明](http://joeyio.com/2014/08/12/tweak-flexloader/)
 
 ## What is FLEX 
 > FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. When presented, FLEX shows a toolbar that lives in a window above your application. From this toolbar, you can view and modify nearly every piece of state in your running application. 
@@ -16,11 +18,11 @@ More about [FLEX](https://github.com/Flipboard/FLEX)
 You can install FLEXLoader in 2 ways as follows:
 
 1. Install from source code(`make package install`)
-2. Search `Flipboard FLEX loader` in Cydia, then install 
+2. Search `Flipboard FLEX loader` in Cydia, you need to add BigBoss Repo Source, then install 
 
 
 ## How to Use
-Open 'Settings > Reveal > Enabled Applications' and toggle the application or applications that you want to debug to on.
+Open 'Settings > Reveal > Enabled Applications' and toggle the switch for applications that you want.
 
 
 ##REF
