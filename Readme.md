@@ -5,7 +5,7 @@ FLEX loader dynamiclly loads FLEX dynamic libarary (`FLEXDylib.dylib`) which was
 
 This tweak is inspired by [RevealLoader](https://github.com/heardrwt/RevealLoader) and modified from RevealLoader. Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices. 
 
-[中文说明](http://joeyio.com/2014/08/12/tweak-flexloader/)
+[中文介绍：动态加载FLEX的越狱插件 - FLEXLoader](https://enjoey.life/2014/08/12/tweak-flexloader/)
 
 ## What is FLEX 
 > FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. When presented, FLEX shows a toolbar that lives in a window above your application. From this toolbar, you can view and modify nearly every piece of state in your running application. 
@@ -25,7 +25,7 @@ You can install FLEXLoader in 2 ways as follows:
 Open 'Settings > Reveal > Enabled Applications' and toggle the switch for applications that you want.
 
 
-##REF
+## REF
 * [FLEX](https://github.com/Flipboard/FLEX)
 * [RevealLoader](https://github.com/heardrwt/RevealLoader)
 * [FLEXDynamicLibProject](https://github.com/qiaoxueshi/FLEXDynamicLibProject)
